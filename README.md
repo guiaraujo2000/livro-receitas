@@ -3,8 +3,8 @@
 
 Ola, bem vindo ao livro receitas
 
-#Strogonoff de Frango
+- Strogonoff de Frango
 
-#Pavê
+- Pavê
 
-#Bolo de Cenoura
+- Bolo de Cenoura
